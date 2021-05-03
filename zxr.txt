@@ -1,0 +1,16 @@
+! This is custom filter created on May 3, 2021. This list is compatible with uBlock Origin.
+
+! Remove URL trackers
+$removeparam=/^ref_/
+$removeparam=/^utm_/
+
+! Desktop Sites
+www.reddit.com##.scrollerItem.hrQ5rXDbyl6t3TIXxENXB._3Qkp11fjcAw9I9wtLo8frE._1EG7_Cm18ANvUvJ4rJdRgQ
+economictimes.indiatimes.com###feedbackForm
+economictimes.indiatimes.com###newsLetterWidgetSection
+www.livemint.com##.ad510
+www.bloomberg.com##.leaderboard-ad-mock
+
+! Mobile Sites
+www.livemint.com###SecLeftNav
+www.livemint.com##.openinApp
