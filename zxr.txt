@@ -14,3 +14,6 @@ www.bloomberg.com##.leaderboard-ad-mock
 ! Mobile Sites
 www.livemint.com###SecLeftNav
 www.livemint.com##.openinApp
+www.livemint.com##.adMinHeight280mob
+www.livemint.com##.adHeight280
+www.livemint.com##.adMinHeight280
