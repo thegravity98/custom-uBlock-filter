@@ -5,16 +5,21 @@
 $removeparam=/^ref_/
 $removeparam=/^utm_/
 
-! Desktop Sites
 www.reddit.com##.scrollerItem.hrQ5rXDbyl6t3TIXxENXB._3Qkp11fjcAw9I9wtLo8frE._1EG7_Cm18ANvUvJ4rJdRgQ
+
+! ET
 economictimes.indiatimes.com###feedbackForm
 economictimes.indiatimes.com###newsLetterWidgetSection
-www.livemint.com##.ad510
+
+! Bloomberg
 www.bloomberg.com##.leaderboard-ad-mock
 
-! Mobile Sites
+! Livemint
 www.livemint.com###SecLeftNav
 www.livemint.com##.openinApp
 www.livemint.com##.adMinHeight280mob
 www.livemint.com##.adHeight280
 www.livemint.com##.adMinHeight280
+www.livemint.com###bsAd-0
+www.livemint.com##.ad510
+lifestyle.livemint.com##.sidebarAdv
