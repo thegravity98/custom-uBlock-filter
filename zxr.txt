@@ -1,11 +1,10 @@
 ! This is custom filter created on May 3, 2021. This list is compatible with uBlock Origin.
-! --Auto Update--
+! copy this link for importing: https://raw.githubusercontent.com/karl-pae/custom-uBlock-filter/main/zxr.txt
 
 ! Remove URL trackers
 $removeparam=/^ref_/
 $removeparam=/^utm_/
 
-www.reddit.com##.scrollerItem.hrQ5rXDbyl6t3TIXxENXB._3Qkp11fjcAw9I9wtLo8frE._1EG7_Cm18ANvUvJ4rJdRgQ
 
 ! ET
 economictimes.indiatimes.com###feedbackForm
@@ -23,3 +22,8 @@ www.livemint.com##.adMinHeight280
 www.livemint.com###bsAd-0
 www.livemint.com##.ad510
 lifestyle.livemint.com##.sidebarAdv
+www.livemint.com##outbrainAdHeight
+
+! The Verge
+! //Removes the border between posts
+theverge.com##div.c-compact-river__entry:style(border-top: 0 !important)
