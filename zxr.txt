@@ -27,3 +27,7 @@ www.livemint.com##outbrainAdHeight
 ! The Verge
 ! //Removes the border between posts
 theverge.com##div.c-compact-river__entry:style(border-top: 0 !important)
+
+! GSMArena Mobile
+! //Removes the border between posts
+m.gsmarena.com##div.news-item:style(border-bottom: 0 !important)
