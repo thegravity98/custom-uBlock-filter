@@ -5,15 +5,34 @@
 $removeparam=/^ref_/
 $removeparam=/^utm_/
 
+!A
 
-! ET
+!B
+www.bloomberg.com##.leaderboard-ad-mock
+
+!C
+
+!D
+
+!E
 economictimes.indiatimes.com###feedbackForm
 economictimes.indiatimes.com###newsLetterWidgetSection
 
-! Bloomberg
-www.bloomberg.com##.leaderboard-ad-mock
+!F
 
-! Livemint
+!G
+! Removes the border between posts
+m.gsmarena.com##div.news-item:style(border-bottom: 0 !important)
+
+!H
+
+!I
+
+!J
+
+!K
+
+!L
 www.livemint.com###SecLeftNav
 www.livemint.com##.openinApp
 www.livemint.com##.adMinHeight280mob
@@ -24,10 +43,34 @@ www.livemint.com##.ad510
 lifestyle.livemint.com##.sidebarAdv
 www.livemint.com##outbrainAdHeight
 
-! The Verge
-! //Removes the border between posts
+!M
+
+!N
+
+!O
+
+!P
+
+!Q
+
+!R
+
+!S
+
+!T
+! Removes the border between posts
 theverge.com##div.c-compact-river__entry:style(border-top: 0 !important)
 
-! GSMArena Mobile
-! //Removes the border between posts
-m.gsmarena.com##div.news-item:style(border-bottom: 0 !important)
+!U
+
+!V
+
+!W
+
+!X
+
+!Y
+
+!Z
+
+! ---End of File---
