@@ -46,9 +46,9 @@ www.livemint.com##.ad510
 lifestyle.livemint.com##.sidebarAdv
 www.livemint.com##outbrainAdHeight
 !remove below lines to display header. Currently, it is buggy.
-!www.livemint.com##section.bodyHolder:style(padding-top:1px !important)
+www.livemint.com##section.bodyHolder:style(padding-top:1px !important)
 www.livemint.com###header
-www.livemint.com##.leftsec
+www.livemint.com##.leftSec
 
 !M
 
