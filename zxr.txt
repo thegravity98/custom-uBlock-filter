@@ -9,6 +9,8 @@ $removeparam=/^utm_/
 
 !B
 www.bloomberg.com##.leaderboard-ad-mock
+search.brave.com###notice
+search.brave.com###searchCTA
 
 !C
 
@@ -27,6 +29,7 @@ m.gsmarena.com##div.news-item:style(border-bottom: 0 !important)
 !H
 
 !I
+interestingengineering.com##.modal-content
 
 !J
 
@@ -42,6 +45,10 @@ www.livemint.com###bsAd-0
 www.livemint.com##.ad510
 lifestyle.livemint.com##.sidebarAdv
 www.livemint.com##outbrainAdHeight
+!remove below lines to display header. Currently, it is buggy.
+!www.livemint.com##section.bodyHolder:style(padding-top:1px !important)
+www.livemint.com###header
+www.livemint.com##.leftsec
 
 !M
 
