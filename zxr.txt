@@ -11,6 +11,7 @@ $removeparam=/^utm_/
 www.bloomberg.com##.leaderboard-ad-mock
 search.brave.com###notice
 search.brave.com###searchCTA
+search.brave.com##.svelte-1y0o3lb.callout
 
 !C
 
