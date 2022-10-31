@@ -67,8 +67,6 @@ outlook.live.com##._1dBL6mV6xRANqjh_Z8BjN6 > ._1fti_QgAzqGWPGlqh_FSvI
 !S
 
 !T
-!Remove border between posts
-theverge.com##div.c-compact-river__entry:style(border-top: 0 !important)
 
 !U
 
@@ -77,6 +75,7 @@ theverge.com##div.c-compact-river__entry:style(border-top: 0 !important)
 !W
 
 !X
+www.xda-developers.com##.browse-clip:style(border-bottom: 0 !important)
 
 !Y
 
