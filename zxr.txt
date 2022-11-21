@@ -1,6 +1,7 @@
 ! This is custom filter created on May 3, 2021. This list is compatible with uBlock Origin.
 ! copy this link for importing: https://raw.githubusercontent.com/karl-pae/custom-uBlock-filter/main/zxr.txt
 
+! --- Filter List ---
 ! Remove URL trackers
 $removeparam=/^ref_/
 $removeparam=/^utm_/
