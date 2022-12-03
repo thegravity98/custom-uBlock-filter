@@ -32,6 +32,8 @@ m.gsmarena.com##div.news-item:style(border-bottom: 0 !important)
 
 !I
 interestingengineering.com##.modal-content
+interestingengineering.com##.Newsletter_footerNewsletter__o7uY0
+interestingengineering.com##.Newsletter_overlay__nUIwp
 
 !J
 
@@ -51,6 +53,10 @@ www.livemint.com##outbrainAdHeight
 www.livemint.com##section.bodyHolder:style(padding-top:1px !important)
 www.livemint.com###header
 www.livemint.com##.leftSec
+www.livemint.com###appDownloadPopup
+www.livemint.com##.stickyWhatsapp
+www.livemint.com##.openinApp2
+www.livemint.com##.stckyShareIcons
 
 !M
 
